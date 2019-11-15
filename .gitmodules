@@ -1,0 +1,3 @@
+[submodule "hashdock"]
+	path = hashdock
+	url = git@github.com:asterisx/hashdock.git
